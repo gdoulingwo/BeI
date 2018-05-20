@@ -1,0 +1,27 @@
+{
+    "disaster": [
+        {
+            "title": "题目",
+            "content": "内容"
+        },
+        {
+            "title": "题目—2",
+            "content": "内容-2"
+        }
+    ],
+    "weather": [
+        {
+            "province": "广东",
+            "cities": [
+                {
+                    "name": "湛江",
+                    "elseMessage": "信息-湛江"
+                },
+                {
+                    "name": "中山",
+                    "elseMessage": "信息-中山"
+                }
+            ]
+        }
+    ]
+}
